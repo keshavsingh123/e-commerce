@@ -1,0 +1,19 @@
+.carousel-inner img {
+    width: 70%;
+    height: 52vh;
+    margin: auto;
+
+    /* padding-left: 2010px; */
+}
+
+h2 {
+    text-align: center;
+}
+
+
+.imga img {
+    /* background-color: rgb(61, 49, 72); */
+    width: 100%;
+    height: 260px;
+    padding: 10px;
+}

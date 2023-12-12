@@ -1,0 +1,28 @@
+body {
+    background-color: #ddd;
+}
+
+.sh {
+    background-color: aquamarine;
+    padding-bottom: 10px;
+
+}
+
+.sign {
+    color: red;
+}
+
+.login {
+    color: blueviolet;
+}
+
+.hs {
+    background-color: aliceblue;
+    padding-bottom: 10px;
+
+}
+
+.Modal {
+    width: 700px;
+    height: 500px;
+}
