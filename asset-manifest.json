@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/keshavsingh123/e-commerce.git/static/css/main.4fd699c6.css",
+    "main.js": "/keshavsingh123/e-commerce.git/static/js/main.69260385.js",
+    "static/css/285.7e31525f.chunk.css": "/keshavsingh123/e-commerce.git/static/css/285.7e31525f.chunk.css",
+    "static/js/285.8c7dca87.chunk.js": "/keshavsingh123/e-commerce.git/static/js/285.8c7dca87.chunk.js",
+    "static/js/601.3da30e21.chunk.js": "/keshavsingh123/e-commerce.git/static/js/601.3da30e21.chunk.js",
+    "index.html": "/keshavsingh123/e-commerce.git/index.html",
+    "main.4fd699c6.css.map": "/keshavsingh123/e-commerce.git/static/css/main.4fd699c6.css.map",
+    "main.69260385.js.map": "/keshavsingh123/e-commerce.git/static/js/main.69260385.js.map",
+    "285.7e31525f.chunk.css.map": "/keshavsingh123/e-commerce.git/static/css/285.7e31525f.chunk.css.map",
+    "285.8c7dca87.chunk.js.map": "/keshavsingh123/e-commerce.git/static/js/285.8c7dca87.chunk.js.map",
+    "601.3da30e21.chunk.js.map": "/keshavsingh123/e-commerce.git/static/js/601.3da30e21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fd699c6.css",
+    "static/js/main.69260385.js"
+  ]
+}
